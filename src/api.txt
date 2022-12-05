@@ -1,0 +1,2 @@
+APP <---- username, password ---> API <-- token ---> zapisać po stronei frontu w LocalStorage
+APP <--- dołaczać do kazdego requestu Token --> API
